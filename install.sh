@@ -12,7 +12,7 @@ cat <<- EOF
   $gh_desc
   https://github.com/mercode-org/$gh_repo
 
-  Copyleft 2019 Mercode
+  Copyleft 2019-2020 Mercode
 
 EOF
 git pull origin master
