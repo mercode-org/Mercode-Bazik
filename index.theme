@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mercode-Bazik
+Comment=A Gtk3.20+ theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mercode-Bazik
+MetacityTheme=Mercode-Bazik
+IconTheme=Papirus-Mer
+ButtonLayout=:minimize,maximize,close
